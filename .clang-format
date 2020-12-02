@@ -1,0 +1,10 @@
+---
+BasedOnStyle: LLVM
+AllowShortFunctionsOnASingleLine: All
+AllowShortIfStatementsOnASingleLine: Always
+AllowShortBlocksOnASingleLine: Always
+ColumnLimit: '100'
+IndentWidth: '4'
+
+...
+
